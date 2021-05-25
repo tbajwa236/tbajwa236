@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanvir Bajwa
-- 👀 I’m interested in data.
+- 👀 I’m interested in data and deriving meaningful insights from it.
 - 🌱 I’m currently on the verge of completing an Applied Data Analytics certificate at the British Columbia Institute of Technology (BCIT).
 - 💞️ I’m looking to collaborate on any data study. I have a background in finance and can be quite resourceful in that space.
 - 📫 How to reach me - My LinkedIn profile. 
